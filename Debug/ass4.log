@@ -1,0 +1,7 @@
+﻿  ass4.c
+C:\Users\Ido\Desktop\Projects CS\ass4\ass4\ass4.c(436,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ido\Desktop\Projects CS\ass4\ass4\ass4.c(434,52): warning C4101: 'lastColumn': unreferenced local variable
+C:\Users\Ido\Desktop\Projects CS\ass4\ass4\ass4.c(503,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Ido\Desktop\Projects CS\ass4\ass4\ass4.c(767,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ido\Desktop\Projects CS\ass4\ass4\ass4.c(961): warning C4715: 'toChar': not all control paths return a value
+  ass4.vcxproj -> C:\Users\Ido\Desktop\Projects CS\ass4\Debug\ass4.exe
